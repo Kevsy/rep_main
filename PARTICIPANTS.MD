@@ -236,7 +236,8 @@
 | Verizon | Syed A Rehman | |
 | Vodafone | David Frankland | |
 | Vodafone | Eric Murray | |
-| Vodafone | Fraser King | Eric Murray | |
+| Vodafone | Fraser King | |
+| Vodafone | Georgia Souitari | |
 | Vodafone | Iván Nieto| |
 | Vodafone / 5GFF | Kevin Smith | Representative |
 | Vodafone | Marta Martin | |
